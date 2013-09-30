@@ -1,2 +1,2 @@
-vendor_ska
+SofaKing vendor files
 ==========
