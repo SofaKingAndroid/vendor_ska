@@ -17,6 +17,7 @@ add_lunch_combo ska_i605-userdebug
 add_lunch_combo ska_i9100-userdebug
 add_lunch_combo ska_i9100g-userdebug
 add_lunch_combo ska_i9300-userdebug
+add_lunch_combo ska_jewel-userdebug
 add_lunch_combo ska_jfltespr-userdebug
 add_lunch_combo ska_jfltetmo-userdebug
 add_lunch_combo ska_jflteusc-userdebug
