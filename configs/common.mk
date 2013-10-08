@@ -13,13 +13,11 @@ PRODUCT_PACKAGES += \
     CellBroadcastReceiver \
     LatinImeDictionaryPack \
     mGerrit \
-    Microbes \
+    NocturnalTweaks \
     PermissionsManager \
-    ROMControl \
     Stk \
     Superuser \
     su \
-    SwagPapers \
     Torch
 
 PRODUCT_PROPERTY_OVERRIDES += \
