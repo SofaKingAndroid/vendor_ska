@@ -14,8 +14,8 @@ PRODUCT_PACKAGES += \
     LatinImeDictionaryPack \
     mGerrit \
     Microbes \
+    Nocturnal_Tweaks \
     PermissionsManager \
-    ROMControl \
     Stk \
     Superuser \
     su \
