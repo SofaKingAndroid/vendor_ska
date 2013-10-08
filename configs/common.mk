@@ -14,7 +14,7 @@ PRODUCT_PACKAGES += \
     LatinImeDictionaryPack \
     mGerrit \
     Microbes \
-    Nocturnal_Tweaks \
+    NocturnalTweaks \
     PermissionsManager \
     Stk \
     Superuser \
