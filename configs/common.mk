@@ -13,7 +13,7 @@ PRODUCT_PACKAGES += \
     BluetoothExt \
     CMFileManager \
     CellBroadcastReceiver \
-    FMRadio \
+    FmRadio \
     LatinImeDictionaryPack \
     mGerrit \
     NocturnalTweaks \
