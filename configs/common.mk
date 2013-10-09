@@ -11,10 +11,10 @@ PRODUCT_PACKAGES += \
     AOKPtips \
     AppWidgetPicker \
     BluetoothExt \
+    CMFileManager \
     CellBroadcastReceiver \
     LatinImeDictionaryPack \
     mGerrit \
-    EVWidgets \
     NocturnalTweaks \
     PermissionsManager \
     Stk \
