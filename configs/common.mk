@@ -7,12 +7,14 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/ska/overlay/common
 PRODUCT_PACKAGE_OVERLAYS += vendor/ska/overlay/dictionaries
 
 PRODUCT_PACKAGES += \
+    Team \
     AOKPtips \
     AppWidgetPicker \
     BluetoothExt \
     CellBroadcastReceiver \
     LatinImeDictionaryPack \
     mGerrit \
+    EVWidgets \
     NocturnalTweaks \
     PermissionsManager \
     Stk \
