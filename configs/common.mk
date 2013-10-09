@@ -17,6 +17,7 @@ PRODUCT_PACKAGES += \
     LatinImeDictionaryPack \
     mGerrit \
     NocturnalTweaks \
+    TeamNocturnal \
     PermissionsManager \
     Stk \
     Superuser \
