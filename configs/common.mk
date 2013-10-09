@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
     Stk \
     Superuser \
     su \
-    ROMControl \
     Torch
 
 PRODUCT_PROPERTY_OVERRIDES += \
