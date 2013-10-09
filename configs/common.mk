@@ -14,7 +14,6 @@ PRODUCT_PACKAGES += \
     CellBroadcastReceiver \
     FmRadio \
     LatinImeDictionaryPack \
-    mGerrit \
     NocturnalTweaks \
     TeamNocturnal \
     PermissionsManager \
