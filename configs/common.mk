@@ -13,6 +13,7 @@ PRODUCT_PACKAGES += \
     BluetoothExt \
     CMFileManager \
     CellBroadcastReceiver \
+    FMRadio \
     LatinImeDictionaryPack \
     mGerrit \
     NocturnalTweaks \
@@ -20,6 +21,7 @@ PRODUCT_PACKAGES += \
     Stk \
     Superuser \
     su \
+    ROMControl \
     Torch
 
 PRODUCT_PROPERTY_OVERRIDES += \
