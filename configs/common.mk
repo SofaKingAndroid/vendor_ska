@@ -8,7 +8,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/ska/overlay/dictionaries
 
 PRODUCT_PACKAGES += \
     AOKPtips \
-    Apollo \ 
+    Apollo \
     AppWidgetPicker \
     BluetoothExt \
     CMFileManager \
