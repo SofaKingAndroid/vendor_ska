@@ -14,7 +14,6 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     CellBroadcastReceiver \
     DSPManager \
-    FmRadio \
     LatinImeDictionaryPack \
     NocturnalTweaks \
     TeamNocturnal \
