@@ -5,6 +5,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/d2vzw.mk \
     $(LOCAL_DIR)/evita.mk \
     $(LOCAL_DIR)/grouper.mk \
+    $(LOCAL_DIR)/i605.mk \
     $(LOCAL_DIR)/jewel.mk \
     $(LOCAL_DIR)/m7att.mk \
     $(LOCAL_DIR)/m7spr.mk \
