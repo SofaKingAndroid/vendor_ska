@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     CellBroadcastReceiver \
     DSPManager \
+    TNWidgets \
     LatinImeDictionaryPack \
     NocturnalTweaks \
     TeamNocturnal \
@@ -81,8 +82,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_COPY_FILES += \
 packages/wallpapers/LivePicker/android.software.live_wallpaper.xml:/system/etc/permissions/android.software.live_wallpaper.xml \
-vendor/ska/proprietary/NovaLauncher/NovaLauncher.apk:system/app/NovaLauncher.apk \
-vendor/ska/proprietary/SunBeam/SunBeamRed.apk:system/app/NovaLauncher.apk
+vendor/ska/proprietary/NovaLauncher/NovaLauncher.apk:system/app/NovaLauncher.apk
 
 # Inherit common build.prop overrides
 -include vendor/ska/configs/common_versions.mk
