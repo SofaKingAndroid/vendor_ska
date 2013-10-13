@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
     PerformanceControl \
     PermissionsManager \
     Stk \
+    SlothWalls \
     Superuser \
     su \
     Torch
