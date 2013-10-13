@@ -18,6 +18,7 @@ PRODUCT_PACKAGES += \
     LatinImeDictionaryPack \
     NocturnalTweaks \
     TeamNocturnal \
+    PerformanceControl \
     PermissionsManager \
     Stk \
     Superuser \
