@@ -57,26 +57,10 @@ then
     echo -e $CL_RED"Invalid path to apkcerts.txt, set APKCERTS to the correct path."$CL_RST
 fi
 
-if [ "$(which pngcrush)" != "" ];
-then
-    optimize_png () {
-        pngcrush -q ${BRUTECRUSH} $1 ${1}.out 1> /dev/null 2> /dev/null
-        mv ${1}.out ${1}
-    }
-elif [ "$(which optipng)" != "" ];
+if [ "$(which optipng)" != "" ];
 then
     optimize_png () {
         optipng -nc -nb -o7 -quiet $1 1> /dev/null 2> /dev/null
-    }
-elif [ "$(which pngout-static)" != "" ];
-then
-    optimize_png () {
-        pngout-static $1
-    }
-elif [ "$(which pngout)" != "" ];
-then
-    optimize_png () {
-        pngout $1
     }
 else
     echo -e $CL_RED"Please install pngcrush, optipng, or pngout"$CL_RST
