@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
     NocturnalTweaks \
     TeamNocturnal \
     PerformanceControl \
+    PerformanceControl_v1 \
     PermissionsManager \
     Stk \
     SlothWalls \
