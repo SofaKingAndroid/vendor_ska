@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     SlothWalls \
     Superuser \
     su \
-    Trebuchet \
     Torch
 
 PRODUCT_PROPERTY_OVERRIDES += \
