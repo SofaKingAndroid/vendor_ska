@@ -1,4 +1,4 @@
-$(call inherit-product, device/samsung/jfltetmo/full_jflteatt.mk)
+$(call inherit-product, device/samsung/jflteatt/full_jflteatt.mk)
 
 # Inherit some common stuff.
 $(call inherit-product, vendor/ska/configs/gsm.mk)
